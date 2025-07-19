@@ -20,13 +20,13 @@ This is an intelligent assistant designed to support users in their fitness jour
 
 | Feature                                 | Description                                                                   |
 | --------------------------------------- | ----------------------------------------------------------------------------- |
-| 🧠 Multi-Agent Routing                  | Different LLMs handle specific tasks (Claude for planning, GPT for nutrition) |
-| 🧩 Langflow-Based Flows                 | Visual agent flows with conditional logic, prompt templates, and tools        |
-| 📈 Personalized AI Feedback             | Recommendations tailored to goals (e.g., muscle gain, fat loss)               |
-| 💾 AstraDB Integration                  | User data and vectorized documents are persisted for contextual recall        |
-| 🔍 Retrieval-Augmented Generation (RAG) | Vector search from AstraDB enhances accuracy of LLM responses                 |
-| 🧮 Dynamic Prompt Injection             | Templates adapt to each user profile and goal automatically                   |
-| 🖥️ Full UI via Streamlit               | Interactive frontend with forms and Ask AI panel                              |
+| Multi-Agent Routing                  | Different LLMs handle specific tasks (Claude for planning, GPT for nutrition) |
+| Langflow-Based Flows                 | Visual agent flows with conditional logic, prompt templates, and tools        |
+| Personalized AI Feedback             | Recommendations tailored to goals (e.g., muscle gain, fat loss)               |
+| AstraDB Integration                  | User data and vectorized documents are persisted for contextual recall        |
+| Retrieval-Augmented Generation (RAG) | Vector search from AstraDB enhances accuracy of LLM responses                 |
+| Dynamic Prompt Injection             | Templates adapt to each user profile and goal automatically                   |
+| Full UI via Streamlit               | Interactive frontend with forms and Ask AI panel                              |
 
 ---
 
