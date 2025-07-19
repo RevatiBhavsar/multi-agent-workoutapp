@@ -133,7 +133,7 @@ multiagent-workoutapp/
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/RevatiBhavsar/multiagent-workoutapp.git
+git clone https://github.com/RevatiBhavsar/multi-agent-workoutapp.git
 cd multiagent-workoutapp
 pip install -r requirements.txt
 streamlit run app.py
